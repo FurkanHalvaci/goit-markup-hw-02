@@ -1,8 +1,7 @@
 .page-body {
   font-family: "roboto", sans-serif;
-  font-weight: 700px;
+  font-weight: 500px;
   color: #434455;
-  
 }
 .page-section-ourportfolio {
   background-color: #e7e9fc;
@@ -16,8 +15,13 @@
   width: 1440px;
   height: 600px;
 }
-.page-effective-solution h2{
-    color: #FFFFFF;
+.page-effective-solution h2 {
+  color: #ffffff;
+  font-weight: 700px;
+  size: 56px;
+  line-height: 1.07;
+  letter-spacing: 2%;
+  text-align: center;
 }
 .page-order-button {
   background-color: #4d5ae5;
@@ -29,61 +33,125 @@
 .page-order-button:hover {
   background-color: #404bbf;
 }
-.page-navigation a{
-    text-decoration: none;
-    color: #2e2f42;
-    
+.page-navigation a {
+  text-decoration: none;
+  color: #2e2f42;
 }
-.page-navigation a:hover{
-      color: #404BBF;
+.page-navigation a:hover {
+  color: #404bbf;
 }
-.page-navigation a:focus{
-    color: #404BBF;
+.page-navigation a:focus {
+  color: #404bbf;
 }
-.page-navigation-list{
+.page-navigation-list {
   list-style: none;
-
 }
-.page-adress a{
-    text-decoration: none;
-    color: #2e2f42;
+.page-adress-list a {
+  text-decoration: none;
+  color: #2e2f42;
+  font-weight: 400px;
+  size: 16px;
+  line-height: 1.5;
+  letter-spacing: 2%;
 }
-.page-adress-list{
-    list-style: none;
+.page-adress-list {
+  list-style: none;
 }
-.page-adress a:hover{
-    color: #404BBF;
+.page-adress a:hover {
+  color: #404bbf;
 }
-.page-adress a:focus{
-    color: #404BBF;
+.page-adress a:focus {
+  color: #404bbf;
 }
-.page-feature{
-    line-height: 1.4;
+.page-feature-list h3 {
+     font-size: 20px;
+     line-height: 1.2;
+     letter-spacing: 2%;
+      color: #2E2F42;
 }
-.page-footer a{
-    text-decoration: none;
-    color: #2e2f42;
+.page-feature-list p{
+     font-weight: 400px;
+     font-size: 16px;
+     line-height: 1.5;
+     letter-spacing: 2%;
 }
-.page-footer{
-    background-color: #2E2F42;
-    color:#F4F4FD;
-    list-style: none;
-    width: 1440px;
-    height: 312px;
+.page-ourteam-section h2{
+    font-weight: 700px;
+    size: 36px;
+    line-height: 1.11;
+    letter-spacing: 2%;
+    text-align: center;
+    color: #2E2F42;
 }
-.page-footer a:hover{
-    color: #404BBF;
-}
-.page-footer a:focus{
-    color: #404BBF;
-}
-.page-footer h3{
-    color:#F4F4FD;
+.page-ourteam-section-list h3{
+    size: 20px;
+    line-height: 1.2;
+    letter-spacing: 2%;
+    color: #2E2F42;
     
 }
-.page-footer-title-span{
-    color: #4D5AE5;
+.page-ourteam-section-list p{
+    font-weight: 400;
+    size: 16px;
+    line-height: 1.2;
+    letter-spacing: 2%;
+    
 }
-.page-header-title-span{
-    color: #4D5AE5;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.page-header-title-span {
+  color: #4d5ae5;
+  font-family: "Raleway";
+  font-weight: 700px;
+  size: 18px;
+  line-height: 1.16;
+  letter-spacing: 3%;
+}
+.page-navigation-list h1 {
+  font-family: "Raleway";
+  font-weight: 700px;
+  size: 18px;
+  line-height: 1.16;
+  letter-spacing: 3%;
+}
+.page-navigation-list li{
+      size: 16px;
+      line-height: 1.5;
+      letter-spacing: 2%;
+       color: #2E2F42;
+}
+.page-footer a {
+  text-decoration: none;
+  color: #2e2f42;
+}
+.page-footer {
+  background-color: #2e2f42;
+  color: #f4f4fd;
+  list-style: none;
+  width: 1440px;
+  height: 312px;
+}
+.page-footer a:hover {
+  color: #404bbf;
+}
+.page-footer a:focus {
+  color: #404bbf;
+}
+.page-footer h3 {
+  color: #f4f4fd;
+}
+.page-footer-title-span {
+  color: #4d5ae5;
 }
