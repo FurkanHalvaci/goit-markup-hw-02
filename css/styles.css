@@ -176,3 +176,10 @@
   line-height: 1.16;
   letter-spacing: -3%;
 }
+.page-footer p{
+  color: #F4F4FD;
+  font-weight: 400px;
+  size: 16px;
+  line-height: 1.2;
+  letter-spacing: -2%;
+}
