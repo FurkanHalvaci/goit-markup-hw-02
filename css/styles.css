@@ -65,72 +65,59 @@
   color: #404bbf;
 }
 .page-feature-list h3 {
-     font-size: 20px;
-     line-height: 1.2;
-     letter-spacing: -2%;
-      color: #2E2F42;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: -2%;
+  color: #2e2f42;
 }
-.page-feature-list p{
-     font-weight: 400px;
-     font-size: 16px;
-     line-height: 1.5;
-     letter-spacing: -2%;
+.page-feature-list p {
+  font-weight: 400px;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: -2%;
 }
-.page-ourteam-section h2{
-    font-weight: 700px;
-    size: 36px;
-    line-height: 1.11;
-    letter-spacing: -2%;
-    text-align: center;
-    color: #2E2F42;
-}
-.page-ourteam-section-list h3{
-    size: 20px;
-    line-height: 1.2;
-    letter-spacing: -2%;
-    color: #2E2F42;
-    
-}
-.page-ourteam-section-list p{
-    font-weight: 400;
-    size: 16px;
-    line-height: 1.2;
-    letter-spacing: -2%;
-    
-}
-.page-section-ourportfolio {
-  background-color: #e7e9fc;
-}
-.page-section-ourportfolio h2{
+.page-ourteam-section h2 {
   font-weight: 700px;
   size: 36px;
   line-height: 1.11;
   letter-spacing: -2%;
   text-align: center;
-  color: #2E2F42;
+  color: #2e2f42;
 }
-.page-section-ourportfolio h3{
-  color: #2E2F42;
+.page-ourteam-section-list h3 {
+  size: 20px;
+  line-height: 1.2;
+  letter-spacing: -2%;
+  color: #2e2f42;
+}
+.page-ourteam-section-list p {
+  font-weight: 400;
+  size: 16px;
+  line-height: 1.2;
+  letter-spacing: -2%;
+}
+.page-section-ourportfolio {
+  background-color: #e7e9fc;
+}
+.page-section-ourportfolio h2 {
+  font-weight: 700px;
+  size: 36px;
+  line-height: 1.11;
+  letter-spacing: -2%;
+  text-align: center;
+  color: #2e2f42;
+}
+.page-section-ourportfolio h3 {
+  color: #2e2f42;
   size: 20px;
   line-height: 1.2;
   letter-spacing: -2%;
 }
-.page-section-ourportfolio p{
+.page-section-ourportfolio p {
   size: 16px;
   line-height: 1.5;
   letter-spacing: -2%;
 }
-
-
-
-
-
-
-
-
-
-
-
 
 .page-header-title-span {
   color: #4d5ae5;
@@ -147,11 +134,11 @@
   line-height: 1.16;
   letter-spacing: -3%;
 }
-.page-navigation-list li{
-      size: 16px;
-      line-height: 1.5;
-      letter-spacing: -2%;
-       color: #2E2F42;
+.page-navigation-list li {
+  size: 16px;
+  line-height: 1.5;
+  letter-spacing: -2%;
+  color: #2e2f42;
 }
 .page-footer a {
   text-decoration: none;
@@ -182,7 +169,7 @@
   line-height: 1.16;
   letter-spacing: -3%;
 }
-.page-footer h3{
+.page-footer h3 {
   font-family: "realway";
   font-weight: 700px;
   size: 18px;
