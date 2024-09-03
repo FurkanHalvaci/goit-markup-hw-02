@@ -142,7 +142,7 @@
 }
 .page-footer a {
   text-decoration: none;
-  color: #2e2f42;
+  color: #f4f4fd;
 }
 
 .page-footer {
@@ -152,32 +152,38 @@
   width: 1440px;
   height: 312px;
 }
-.page-footer h3:hover {
+.page-footer-h3:hover {
   color: #404bbf;
 }
-.page-footer h3:focus {
+.page-footer-h3:focus {
   color: #404bbf;
 }
-.page-footer h3 {
+.page-footer-h3 {
   color: #f4f4fd;
 }
 .page-footer-title-span {
   color: #4d5ae5;
-  font-family: "realway";
+  font-family: "Raleway";
   font-weight: 700px;
   size: 18px;
   line-height: 1.16;
   letter-spacing: -3%;
 }
-.page-footer h3 {
-  font-family: "realway";
+.page-footer-title-span:hover {
+  color: #404bbf;
+}
+.page-footer-title-span:focus {
+  color: #404bbf;
+}
+.page-footer-h3 {
+  font-family: "Raleway";
   font-weight: 700px;
   size: 18px;
   line-height: 1.16;
   letter-spacing: -3%;
 }
-.page-footer p{
-  color: #F4F4FD;
+.page-footer p {
+  color: #f4f4fd;
   font-weight: 400px;
   size: 16px;
   line-height: 1.2;
