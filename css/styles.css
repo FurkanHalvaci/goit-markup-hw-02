@@ -3,9 +3,7 @@
   font-weight: 500px;
   color: #434455;
 }
-.page-section-ourportfolio {
-  background-color: #e7e9fc;
-}
+
 .page-header {
   background-color: #e7e9fc;
 }
@@ -20,7 +18,7 @@
   font-weight: 700px;
   size: 56px;
   line-height: 1.07;
-  letter-spacing: 2%;
+  letter-spacing: -2%;
   text-align: center;
 }
 .page-order-button {
@@ -31,6 +29,9 @@
   cursor: pointer;
 }
 .page-order-button:hover {
+  background-color: #404bbf;
+}
+.page-order-button:focus {
   background-color: #404bbf;
 }
 .page-navigation a {
@@ -52,7 +53,7 @@
   font-weight: 400px;
   size: 16px;
   line-height: 1.5;
-  letter-spacing: 2%;
+  letter-spacing: -2%;
 }
 .page-adress-list {
   list-style: none;
@@ -66,27 +67,27 @@
 .page-feature-list h3 {
      font-size: 20px;
      line-height: 1.2;
-     letter-spacing: 2%;
+     letter-spacing: -2%;
       color: #2E2F42;
 }
 .page-feature-list p{
      font-weight: 400px;
      font-size: 16px;
      line-height: 1.5;
-     letter-spacing: 2%;
+     letter-spacing: -2%;
 }
 .page-ourteam-section h2{
     font-weight: 700px;
     size: 36px;
     line-height: 1.11;
-    letter-spacing: 2%;
+    letter-spacing: -2%;
     text-align: center;
     color: #2E2F42;
 }
 .page-ourteam-section-list h3{
     size: 20px;
     line-height: 1.2;
-    letter-spacing: 2%;
+    letter-spacing: -2%;
     color: #2E2F42;
     
 }
@@ -94,11 +95,31 @@
     font-weight: 400;
     size: 16px;
     line-height: 1.2;
-    letter-spacing: 2%;
+    letter-spacing: -2%;
     
 }
-
-
+.page-section-ourportfolio {
+  background-color: #e7e9fc;
+}
+.page-section-ourportfolio h2{
+  font-weight: 700px;
+  size: 36px;
+  line-height: 1.11;
+  letter-spacing: -2%;
+  text-align: center;
+  color: #2E2F42;
+}
+.page-section-ourportfolio h3{
+  color: #2E2F42;
+  size: 20px;
+  line-height: 1.2;
+  letter-spacing: -2%;
+}
+.page-section-ourportfolio p{
+  size: 16px;
+  line-height: 1.5;
+  letter-spacing: -2%;
+}
 
 
 
@@ -117,25 +138,26 @@
   font-weight: 700px;
   size: 18px;
   line-height: 1.16;
-  letter-spacing: 3%;
+  letter-spacing: -3%;
 }
 .page-navigation-list h1 {
   font-family: "Raleway";
   font-weight: 700px;
   size: 18px;
   line-height: 1.16;
-  letter-spacing: 3%;
+  letter-spacing: -3%;
 }
 .page-navigation-list li{
       size: 16px;
       line-height: 1.5;
-      letter-spacing: 2%;
+      letter-spacing: -2%;
        color: #2E2F42;
 }
 .page-footer a {
   text-decoration: none;
   color: #2e2f42;
 }
+
 .page-footer {
   background-color: #2e2f42;
   color: #f4f4fd;
@@ -143,10 +165,10 @@
   width: 1440px;
   height: 312px;
 }
-.page-footer a:hover {
+.page-footer h3:hover {
   color: #404bbf;
 }
-.page-footer a:focus {
+.page-footer h3:focus {
   color: #404bbf;
 }
 .page-footer h3 {
@@ -154,4 +176,16 @@
 }
 .page-footer-title-span {
   color: #4d5ae5;
+  font-family: "realway";
+  font-weight: 700px;
+  size: 18px;
+  line-height: 1.16;
+  letter-spacing: -3%;
+}
+.page-footer h3{
+  font-family: "realway";
+  font-weight: 700px;
+  size: 18px;
+  line-height: 1.16;
+  letter-spacing: -3%;
 }
