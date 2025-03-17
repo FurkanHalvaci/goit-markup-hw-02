@@ -9,9 +9,7 @@
   font-weight: 400;
   color: var(--slate);
 }
-.list-style {
-  list-style-type: none;
-}
+
 /* Header CSS */
 .logo-span,
 .logo-link {
@@ -115,9 +113,7 @@
   letter-spacing: 2%;
 }
 /* Main CSS section four */
-.section-four {
-  background-color: #e7e9fc;
-}
+
 .section-four-title {
   font-weight: 700;
   font-size: 36px;
@@ -159,4 +155,7 @@
   line-height: 1.5;
   letter-spacing: 2%;
   color: #f4f4fd;
+}
+.list-style {
+  list-style-type: none;
 }
