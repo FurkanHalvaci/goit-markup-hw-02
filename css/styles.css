@@ -9,6 +9,9 @@
   font-weight: 400;
   color: var(--slate);
 }
+.list-style {
+  list-style-type: none;
+}
 
 /* Header CSS */
 .logo-span,
@@ -156,6 +159,4 @@
   letter-spacing: 2%;
   color: #f4f4fd;
 }
-.list-style {
-  list-style-type: none;
-}
+
