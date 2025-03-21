@@ -14,6 +14,7 @@
 }
 
 /* Header CSS */
+
 .logo-span,
 .logo-link {
   font-family: Raleway, sans-serif;
@@ -54,6 +55,7 @@
 /* Main CSS section-1 */
 .section-one {
   background-color: var(--navy);
+  height: 600px;
 }
 .section-one-title {
   color: white;
@@ -140,6 +142,7 @@
 /* Footer CSS */
 .page-footer {
   background-color: var(--navy);
+  height: 312px;
 }
 .footer-logo {
   font-family: Raleway, sans-serif;
